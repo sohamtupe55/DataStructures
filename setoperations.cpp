@@ -10,10 +10,10 @@ int main()
 	cin>>nm;
 	cout<<"ENTER NO. OF STUDENTS WHO LIKE SCIENCE\n";
 	cin>>ns;	
-	cout<<"ENTER ROLL NO. OF STUDENTS WHO LIKE MATHS\n";
+	cout<<"ENTER ROLL NO. OF STUDENTS WHO LIKE MATHS\n";//Set A
 	for(int i=0;i<nm;i++)	
 		cin>>mat[i];	
-	cout<<"ENTER ROLL NO. OF STUDENTS WHO LIKE SCIENCE\n";
+	cout<<"ENTER ROLL NO. OF STUDENTS WHO LIKE SCIENCE\n";//Set B
 	for(int i=0;i<ns;i++)	
 		cin>>sci[i];
 	cout<<"STUDETS WHO LIKE EITHER MATHS OR SCIENCE:\n";//union
