@@ -9,6 +9,5 @@
 **2. Problem :**
     a) Perform matrix operations without pointers.
     **Solution:** [Matrix Operations Without Pointers](https://github.com/sohamtupe55/DataStructures/blob/master/matrixwithoutpointer.cpp)
-    
-   b) Perform matrix operations with pointers.
+    b) Perform matrix operations with pointers.
    **Solution:** [Matrix Operations With Pointers](https://github.com/sohamtupe55/DataStructures/blob/master/matrixwithpointer.cpp)
