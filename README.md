@@ -16,3 +16,8 @@
     a) Create a database for inventory  system of a shop using  array of structures and perform following  operations  on it:  i.) Add record    ii.)  Display  Database
     b) In the inventory  system database iii.)  Search record iv.)  Delete record v.)  Sort  records
     **Solution:** [INVENTORY SYSTEM USING ARRAY OF STRUCTURES](https://github.com/sohamtupe55/DataStructures/blob/master/inventory.cpp)
+
+**4.Problem :**
+    a)  Create database for employees of an organization  using  sequential  file  and perform following operations:   i. Display  ii.  Add records iii.  Search record
+    b) Perform following  operations  on  employee database iv. Modify record v. Delete record vi.  Sort using Bubble  sort
+    **Solution: **[EMPLOYEE DATABASE USING SEQUQNTIAL FILE HANDLING](https://github.com/sohamtupe55/DataStructures/blob/master/seqfile.c)
