@@ -20,4 +20,4 @@
 **4.Problem :**
     a)  Create database for employees of an organization  using  sequential  file  and perform following operations:   i. Display  ii.  Add records iii.  Search record
     b) Perform following  operations  on  employee database iv. Modify record v. Delete record vi.  Sort using Bubble  sort
-    **Solution: **[EMPLOYEE DATABASE USING SEQUQNTIAL FILE HANDLING](https://github.com/sohamtupe55/DataStructures/blob/master/seqfile.c)
+    **Solution:** [EMPLOYEE DATABASE USING SEQUQNTIAL FILE HANDLING](https://github.com/sohamtupe55/DataStructures/blob/master/seqfile.c)
