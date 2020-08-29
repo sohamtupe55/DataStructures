@@ -40,6 +40,8 @@ int main()
 			case 5:
 				sortrec(p,n);
 				break;
+			default:
+				cout<<"INVALID INPUT\n";
 		}
 	}
 	return 0;
