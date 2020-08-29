@@ -21,3 +21,11 @@
     a)  Create database for employees of an organization  using  sequential  file  and perform following operations:   i. Display  ii.  Add records iii.  Search record
     b) Perform following  operations  on  employee database iv. Modify record v. Delete record vi.  Sort using Bubble  sort
     **Solution:** [EMPLOYEE DATABASE USING SEQUQNTIAL FILE HANDLING](https://github.com/sohamtupe55/DataStructures/blob/master/seqfile.c)
+    
+**5.Problem :**
+    a) Sort the set of strings in  ascending order using  Insertion  sort and descending  order by using  Selection sort. (Display  pass by pass output)
+    **Solution:** [SORTING USING INSERTION SORT AND SELECTION SORT](https://github.com/sohamtupe55/DataStructures/blob/master/sortselins.cpp)
+    b) Search a particular  string  using  binary  search with and without  recursion
+    **Solution:** [BINARY SEARCH WITH AND WITHOUT RECURSION](https://github.com/sohamtupe55/DataStructures/blob/master/binsearch.cpp)
+    
+
