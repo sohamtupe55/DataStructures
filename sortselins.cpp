@@ -30,7 +30,14 @@ int main()
 				j--;
 			}
 			str[j+1]=key;
+			cout<<"PASS "<<i<<":\t";
+			for(int i=0;i<n;i++)
+			{
+			cout<<str[i]<<"\t";
+			}
+			cout<<endl;
 		}
+		cout<<"FINAL ORDER:\n";
 		for(int i=0;i<n;i++)
 		{
 			cout<<str[i]<<endl;
@@ -54,11 +61,20 @@ int main()
 			temp=str[i];
 			str[i]=str[maxl];
 			str[maxl]=temp;
+			cout<<"PASS "<<i+1<<":\t";
+			for(int i=0;i<n;i++)
+			{
+			cout<<str[i]<<"\t";
+			}
+			cout<<endl;
 		}
+		cout<<"FINAL ORDER:\n";
 		for(int i=0;i<n;i++)
 		{
 			cout<<str[i]<<endl;
 		}
+		break;
+		case 0:
 		break;
 		default:
 			cout<<"INVALID INPUT\n";
