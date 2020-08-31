@@ -51,7 +51,7 @@ void mergesort(int a[],int l,int r)
 	mergesort(a,l,m);
 	mergesort(a,m+1,r);
 	merge(a,l,m,r);
-	cout<<"PASS:\t";
+	cout<<"SORTED SUBARRAY:\t";
     	for(int i=0;i<r-l+1;i++)
     	{
 			cout<<a[i]<<"\t";
@@ -122,6 +122,12 @@ void quicksort(int arr[],int l,int r)
 		int partitionindex=partition(arr,l,r);
 		quicksort(arr,l,partitionindex-1);
 		quicksort(arr,partitionindex+1,r);
+		cout<<"SORTED SUBARRAY:\t";
+    		for(int i=l;i<r+1;i++)
+    		{
+			cout<<arr[i]<<"\t";
+    		} 
+    		cout<<endl;
 	}
 }
 
