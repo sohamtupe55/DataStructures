@@ -28,4 +28,8 @@
     b) Search a particular  string  using  binary  search with and without  recursion
     **Solution:** [BINARY SEARCH WITH AND WITHOUT RECURSION](https://github.com/sohamtupe55/DataStructures/blob/master/binsearch.cpp)
     
+**6.Problem :**
+    Implement  Quick  Sort / Merge Sortto  sort the given  list  of numbers. Display  corresponding  list  in each pass. (with recursion)
+    **Solution:** [Merge Sort & Quick Sort](https://github.com/sohamtupe55/DataStructures/blob/master/sortmerqck.cpp)
+    
 
