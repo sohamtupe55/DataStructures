@@ -32,4 +32,10 @@
     Implement  Quick  Sort / Merge Sortto  sort the given  list  of numbers. Display  corresponding  list  in each pass. (with recursion)
     **Solution:** [Merge Sort & Quick Sort](https://github.com/sohamtupe55/DataStructures/blob/master/sortmerqck.cpp)
     
+**7.Problem:**
+    a) Accept conventional  matrix  and convert it  into  sparse matrix using  structure and Perform additionof two sparse matrices.
+    b) Implement  simple  and fast transpose algorithms  on sparse matrix.
+    **Solution:** [SPARSE MATRIX AND OPERATIONS](https://github.com/sohamtupe55/DataStructures/blob/master/sparse.cpp)
+    
+    
 
