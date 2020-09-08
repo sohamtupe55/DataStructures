@@ -83,7 +83,14 @@ void printList(struct Node* node) {
     node = node->next;
   }
 }
-
+void reverse(struct Node* node)
+{
+	if(node==NULL)
+		return;
+	else
+		reverse(node->next);
+		cout << node->item << " ";
+}
 // Driver program
 int main() {
   struct Node* head = NULL;
@@ -100,4 +107,6 @@ int main() {
   cout << "\nAfter deleting an element: ";
   deleteNode(&head, 3);
   printList(head);
+  cout << "\nReverse List: ";
+  reverse(head);
 }
