@@ -37,5 +37,10 @@
     b) Implement  simple  and fast transpose algorithms  on sparse matrix.
     **Solution:** [SPARSE MATRIX AND OPERATIONS](https://github.com/sohamtupe55/DataStructures/blob/master/sparse.cpp)
     
+**8.Problem:**
+    a) Implement a singly linked list(SLL) with following options i. Insertion of a node at any location ii. display a list
+    b) For SLL perform ii. Deletion of a node from any location iv. Display in reverse
+    **Solution:** [SINGLY LINKED LIST](https://github.com/sohamtupe55/DataStructures/blob/master/sll.cpp)
+    
     
 
